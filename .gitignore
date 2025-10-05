@@ -1,0 +1,25 @@
+# --- Python cache and compiled files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+.env
+.venv
+venv/
+env/
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor settings ---
+.vscode/
+.idea/
+
+# --- Logs and temporary files ---
+*.log
+*.tmp
+
+# --- Data output ---
+data/topdeals.csv
