@@ -42,11 +42,6 @@ This project scrapes product data (name, price, and link) from the â€œTop Dealsâ
 
 ## Usage
 
-### Run the scraper directly
-```bash
-python deal_scraper.py  # generates data/topdeals.csv with latest deals
-```
-
 ### Run the Flask API
 ```bash
 python app.py  # starts Flask API at http://127.0.0.1:5000/
