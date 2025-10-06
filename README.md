@@ -44,7 +44,7 @@ This project scrapes product data (name, price, and link) from the â€œTop Dealsâ
 
 ### Run the Flask API
 ```bash
-python app.py  # starts Flask API at http://127.0.0.1:5000/
+python flask_app.py  # starts Flask API at http://127.0.0.1:5000/
 ```
 
 Open your browser and go to http://127.0.0.1:5000/
